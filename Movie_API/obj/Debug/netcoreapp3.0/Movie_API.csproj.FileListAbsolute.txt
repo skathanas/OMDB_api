@@ -1,0 +1,17 @@
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\bin\Debug\netcoreapp3.0\Movie_API.exe
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\obj\Debug\netcoreapp3.0\Movie_API.csprojAssemblyReference.cache
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\obj\Debug\netcoreapp3.0\Movie_API.AssemblyInfoInputs.cache
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\obj\Debug\netcoreapp3.0\Movie_API.AssemblyInfo.cs
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\bin\Debug\netcoreapp3.0\Nancy.dll
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\obj\Debug\netcoreapp3.0\Movie_API.csproj.CopyComplete
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\bin\Debug\netcoreapp3.0\Movie_API.deps.json
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\bin\Debug\netcoreapp3.0\Movie_API.runtimeconfig.json
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\bin\Debug\netcoreapp3.0\Movie_API.runtimeconfig.dev.json
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\bin\Debug\netcoreapp3.0\Movie_API.dll
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\bin\Debug\netcoreapp3.0\Movie_API.pdb
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\obj\Debug\netcoreapp3.0\Movie_API.dll
+C:\Users\Jarmo\source\repos\Movie_API\Movie_API\obj\Debug\netcoreapp3.0\Movie_API.pdb
